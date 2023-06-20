@@ -1,0 +1,15 @@
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\bin\Debug\net6.0\ProductStore.exe
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\bin\Debug\net6.0\ProductStore.deps.json
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\bin\Debug\net6.0\ProductStore.runtimeconfig.json
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\bin\Debug\net6.0\ProductStore.dll
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\bin\Debug\net6.0\ProductStore.pdb
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\ProductStore.csproj.AssemblyReference.cache
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\ProductStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\ProductStore.AssemblyInfoInputs.cache
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\ProductStore.AssemblyInfo.cs
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\ProductStore.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\ProductStore.dll
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\refint\ProductStore.dll
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\ProductStore.pdb
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\ProductStore.genruntimeconfig.cache
+C:\Users\Yoni\source\repos\ProductStore\ProductStore\obj\Debug\net6.0\ref\ProductStore.dll
